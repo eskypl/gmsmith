@@ -1,4 +1,6 @@
 # gmsmith changelog
+0.4.6 - Change dependency tempfile
+
 0.4.5 - Added documentation for `quality`
 
 0.4.4 - Upgraded to `spritesmith-engine-test@2.0.0` and moved to `mocha`
