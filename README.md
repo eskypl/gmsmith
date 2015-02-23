@@ -1,4 +1,4 @@
-# gmsmith [![Build status](https://travis-ci.org/twolfson/gmsmith.png?branch=master)](https://travis-ci.org/twolfson/gmsmith)
+# gmsmith
 
 [GM][gm] engine for [spritesmith][spritesmith].
 
